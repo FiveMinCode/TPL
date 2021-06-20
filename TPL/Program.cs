@@ -7,8 +7,8 @@ namespace TPL
     {
         public static void Main(string[] args)
         {
-            Clock();
-            //TPLImplementation.WorkWithImages();
+            //Clock();
+            TPLImplementation.WorkWithImages();
         }
 
         /// <summary>
